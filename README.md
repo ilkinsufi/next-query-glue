@@ -12,9 +12,6 @@ $ npm install next-query-glue
 $ yarn add next-query-glue
 ```
 
-## Getting started
-[with react-query](docs%2Fwith-react-query%2FREADME.md)
-
 ## Starters
 [react-query + View Transitions API](https://github.com/ilkinsufi/next-query-glue)
 
